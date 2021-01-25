@@ -7,7 +7,7 @@ Born 1969 or later (50+)
 Only listed as male or female
 Only Subscribers
 
-Visualizations can be found [here](https://public.tableau.com/profile/zachary.adams8511#!/vizhome/CitiBikeUsage2019/CitiBikeResults). 
+Tableau visualizations can be found [here](https://public.tableau.com/profile/zachary.adams8511#!/vizhome/CitiBikeUsage2019/CitiBikeResults). 
 
 The first breakdown looks at bike usage per month based on age and gender. Men used Citibike much more than women consitantly over every month, approximately three times as much. Interestingly on average trips took longer for women than for men on average. Assuming no significant variation between genders on the average distances travelled it seems that men may ride thier bikes more quickly than women. It would be interesting to see if there was a correlation between bike accident incidences and gender to see if speed was a factor. 
 
